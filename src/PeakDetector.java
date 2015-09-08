@@ -1,9 +1,12 @@
 import java.util.ArrayList;
 
-/**
+/** 
+ * Alejandro Adam - September 8th, 2015
+ * 
  * Slightly modified from: 
  * https://code.google.com/p/fiji-bi/source/browse/src-plugins/FlowMate_/fiji/plugin/flowmate/analysis/PeakDetector.java
  * To work with doubles instead. See original attributions below.
+ * 
  */
 
 /**
@@ -24,6 +27,7 @@ import java.util.ArrayList;
  * 
  * @author Jean-Yves Tinevez <jeanyves.tinevez@gmail.com> May 10, 2011
  */
+
 public class PeakDetector {
 
 	private double[] T;
